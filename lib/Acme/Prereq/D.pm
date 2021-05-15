@@ -10,10 +10,10 @@ Acme::Prereq::D - Module for testing CPAN module prerequisites
 
 =head1 VERSION
 
-Version 0.01
+Version 0.03
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.03';
 
 1; # End of Acme::Prereq::D
