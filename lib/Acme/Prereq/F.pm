@@ -10,14 +10,18 @@ Acme::Prereq::F - Module for testing CPAN module prerequisites
 
 =head1 VERSION
 
-Version 1.0.0 
+Version 2.0.0
 
 =cut
 
-our $VERSION = '1.0.0';
+our $VERSION = '2.0.0';
 
 sub one() {
 	print "One !\n";
+}
+
+sub two() {
+	print "Two !\n";
 }
 
 1; # End of Acme::Prereq::F
