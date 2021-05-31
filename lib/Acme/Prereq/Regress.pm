@@ -10,6 +10,6 @@ Acme::Prereq::Regress - Module for testing CPAN Pause indexing
 
 =cut
 
-our $VERSION = '5.00';
+our $VERSION = '4.00';
 
 1; # End of Acme::Prereq::Regress
