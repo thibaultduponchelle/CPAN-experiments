@@ -1,5 +1,5 @@
 Changes
-lib/Acme/Prereq/Regress.pm
+lib/Acme/Version/Regress.pm
 Makefile.PL
 MANIFEST			This list of files
 README

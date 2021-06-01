@@ -7,7 +7,7 @@ use Test::More;
 plan tests => 1;
 
 BEGIN {
-    use_ok( 'Acme::Prereq::Regress' ) || print "Bail out!\n";
+    use_ok( 'Acme::Version::Regress' ) || print "Bail out!\n";
 }
 
-diag( "Testing Acme::Prereq::Regress $Acme::Prereq::Regress::VERSION, Perl $], $^X" );
+diag( "Testing Acme::Version::Regress $Acme::Version::Regress::VERSION, Perl $], $^X" );
