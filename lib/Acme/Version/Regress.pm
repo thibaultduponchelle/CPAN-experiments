@@ -10,11 +10,11 @@ Acme::Version::Regress - Module for testing CPAN Pause indexing
 
 =cut
 
-our $VERSION = '5.00';
+our $VERSION = '4.00';
 
 =head1 VERSION
 
-Version 5.00
+Version 4.00
 
 =cut
 
