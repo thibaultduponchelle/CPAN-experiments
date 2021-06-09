@@ -6,14 +6,14 @@ use warnings;
 
 =head1 NAME
 
-Acme::Version::Negative - A module to test CPAN Pause indexing
+Acme::Version::Negative - Module for testing CPAN Pause indexing
 
 =head1 VERSION
 
-Version -1.00
+Version -2.00
 
 =cut
 
-our $VERSION = '-1.00';
+our $VERSION = '-2.00';
 
 1; # End of Acme::Version::Negative
